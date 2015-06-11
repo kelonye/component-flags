@@ -1,5 +1,5 @@
 {
-  "name": "component-animate-cubic-bezier-curve",
+  "name": "component-flags",
   "private": true,
   "dependencies": {
     "component-hooks": "0.2.5"
