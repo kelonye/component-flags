@@ -1,0 +1,14 @@
+{
+  "name": "flags",
+  "verison": "0.0.1",
+  "scripts": [
+  ],
+  "styles": [
+    "stylesheets/flags16.css",
+    "stylesheets/flags32.css"
+  ],
+  "images": [
+    "images/flags16.png",
+    "images/flags32.png"
+  ]
+}

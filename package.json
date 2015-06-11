@@ -1,0 +1,8 @@
+{
+  "name": "component-animate-cubic-bezier-curve",
+  "private": true,
+  "dependencies": {
+    "component-hooks": "0.2.5"
+  },
+  "license": "MIT"
+}
